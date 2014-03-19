@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7480,7 +7480,7 @@ Source: www.kingbright.com</description>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="IC1" library="stm32" deviceset="STM32F10XCXT6" device=""/>
+<part name="IC1" library="stm32" deviceset="STM32F10XCXT6" device="" value="STM32F103CB"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
 <part name="U$2" library="linear-technology-2" deviceset="LT1761" device=""/>
 <part name="C7" library="rcl" deviceset="C-EU" device="C1210K" value="47u 16V"/>
